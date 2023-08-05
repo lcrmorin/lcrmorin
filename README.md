@@ -1,4 +1,4 @@
-### Hi there 👋
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/notebook)
 
 <!--
 **lcrmorin/lcrmorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
