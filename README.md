@@ -1,3 +1,13 @@
+Data & Model Audit @ SGCIB 
+Kaggle GM
+Mostly working in Python. Also decent in R/VBA. 
+
+[LinkedIn][1], [Github][2], [Kaggle][3]
+
+  [1]: https://www.linkedin.com/in/morinlucas/
+  [2]: https://github.com/lcrmorin
+  [3]: https://www.kaggle.com/lucasmorin
+
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/notebook)
 
 <!--
