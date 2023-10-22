@@ -11,6 +11,7 @@ Mostly working in Python. Also decent in R/VBA.
   [3]: https://www.kaggle.com/lucasmorin
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/discussion)
 
 <!--
 **lcrmorin/lcrmorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
