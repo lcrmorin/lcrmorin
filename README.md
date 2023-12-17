@@ -1,4 +1,4 @@
-Data & Model Audit @ SGCIB 
+Senior Data & Model Auditor @ SGCIB 
 
 Kaggle GM
 
