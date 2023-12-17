@@ -2,7 +2,7 @@ Data & Model Audit @ SGCIB
 
 Kaggle GM
 
-Mostly working in Python. Also decent in R/VBA. 
+Mostly working in Python. Also decent in R/Excel/VBA. 
 
 [LinkedIn][1], [Github][2], [Kaggle][3]
 
