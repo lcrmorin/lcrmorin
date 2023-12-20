@@ -8,5 +8,4 @@ Senior Data & Model Auditor @ SGCIB
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/discussion)
-
 [![My Skills](https://skillicons.dev/icons?i=bash,python,r,vba,raspberrypi)](https://skillicons.dev)
