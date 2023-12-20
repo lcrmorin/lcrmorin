@@ -1,9 +1,5 @@
 Senior Data & Model Auditor @ SGCIB 
 
-Kaggle GM
-
-Mostly working in Python. Also decent in R/Excel/VBA. 
-
 [LinkedIn][1], [Github][2], [Kaggle][3]
 
   [1]: https://www.linkedin.com/in/morinlucas/
@@ -13,4 +9,4 @@ Mostly working in Python. Also decent in R/Excel/VBA.
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucasmorin/discussion)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,R,VBA)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,r,vba,raspberrypi)](https://skillicons.dev)
