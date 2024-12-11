@@ -1,4 +1,4 @@
-Senior Data & Model Auditor @ SGCIB 
+Quant Specialist @ BNPP
 
 [LinkedIn][1], [Github][2], [Kaggle][3]
 
