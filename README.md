@@ -1,3 +1,5 @@
+Qaunt Specialist - Innovation Lead @ BNPP
+
 [LinkedIn][1], [Github][2], [Kaggle][3]
 
   [1]: https://www.linkedin.com/in/morinlucas/
