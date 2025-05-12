@@ -1,4 +1,4 @@
-Qaunt Specialist - Innovation Lead @ BNPP
+Quant Specialist - Innovation Lead @ BNPP
 
 [LinkedIn][1], [Github][2], [Kaggle][3]
 
