@@ -4,8 +4,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/morinlucas/) · [Kaggle](https://www.kaggle.com/lucasmorin)
 
-### GitHub activity
+### Contributions & collaboration
 
-![Contribution streak](https://streak-stats.demolab.com/?user=lcrmorin&theme=dark&hide_border=true)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lcrmorin&bg_color=151515&color=eeeeee&line=4cceac&point=ffffff&area=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lcrmorin&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues,contribs&show=reviews,prs_merged&number_format=long&theme=dark&hide_border=true&custom_title=Contributions%20%26%20Collaboration)
