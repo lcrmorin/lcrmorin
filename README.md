@@ -1,9 +1,11 @@
-Quant Specialist - Innovation Lead @ BNPP
+# Lucas Morin
 
-[LinkedIn][1], [Github][2], [Kaggle][3]
+**Quant Specialist · Innovation Lead @ BNP Paribas**
 
-  [1]: https://www.linkedin.com/in/morinlucas/
-  [2]: https://github.com/lcrmorin
-  [3]: https://www.kaggle.com/lucasmorin
-  
-[![My Skills](https://skillicons.dev/icons?i=bash,python,r,tensorflow,raspberrypi)](https://skillicons.dev)
+[LinkedIn](https://www.linkedin.com/in/morinlucas/) · [Kaggle](https://www.kaggle.com/lucasmorin)
+
+### GitHub activity
+
+![Contribution streak](https://streak-stats.demolab.com/?user=lcrmorin&theme=dark&hide_border=true)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lcrmorin&bg_color=151515&color=eeeeee&line=4cceac&point=ffffff&area=true&hide_border=true)
